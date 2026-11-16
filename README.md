@@ -6,10 +6,10 @@ ATM Wallet is a simple and secure digital wallet application that allows users t
 Built for everyday use, with a bold and modern design.
 
 
- FEATURES
+ FEATURES-
  View Balance in real-time
  Deposit Money
  Withdraw Money
  Transaction History
  Fast and Easy to Use Interface
-Clean Dull + Bright Orange Design.
+Clean Dull and Bright Orange Design.
